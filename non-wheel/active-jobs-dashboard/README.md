@@ -1,4 +1,4 @@
-# Active Jobs Dashboard
+# Active Jobs Dashboard, which is totally awesome!!
 Python script for IBM i that shows active jobs and allows sorting
 using the DB2 qsys2.active_job_info() service.  
 
